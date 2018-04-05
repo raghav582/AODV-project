@@ -1,0 +1,126 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Creator: nam
+%%DocumentFonts: Helvetica
+%%BoundingBox: 36 180 526 572
+%%EndComments
+gsave 36 36 translate
+/namdict 20 dict def
+namdict begin
+/ft {/Helvetica findfont exch scalefont setfont
+newpath 0 0 moveto (0) true charpath flattenpath
+pathbbox /fh exch def pop pop pop} def
+/center_show {/s exch def moveto s stringwidth
+pop 2 div neg fh 2 div neg rmoveto s show} def
+/north_show {/s exch def moveto s stringwidth
+pop 2 div neg fh neg rmoveto s show} def
+/south_show {/s exch def moveto s stringwidth
+pop 2 div neg 0 rmoveto s show} def
+/east_show {/s exch def moveto s stringwidth
+pop neg fh 2 div neg rmoveto s show} def
+/west_show {/s exch def moveto 
+0 fh 2 div neg rmoveto s show} def
+/rect {newpath /h exch def /w exch def moveto
+w 0 rlineto 0 h rlineto w neg 0 rlineto
+0 h neg rlineto closepath stroke} def
+/line {newpath moveto lineto stroke} def
+/circle {newpath 0 360 arc stroke} def
+end
+%%EndProlog
+namdict begin
+0.00 0.00 0.00 setrgbcolor
+123.9 193.2 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+123.9 193.2 (4) center_show
+0.00 0.00 0.00 setrgbcolor
+210.2 282.0 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+210.2 282.0 (3) center_show
+0.00 0.00 0.00 setrgbcolor
+73.6 261.8 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+73.6 261.8 (2) center_show
+0.00 0.00 0.00 setrgbcolor
+196.7 169.3 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+196.7 169.3 (1) center_show
+0.00 0.00 0.00 setrgbcolor
+64.5 290.1 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+64.5 290.1 (0) center_show
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 180.7 282.6 moveto
+180.6 281.1 lineto
+180.3 281.1 lineto
+180.4 282.6 lineto
+180.7 282.6 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 182.6 252.1 moveto
+183.6 251.0 lineto
+183.4 250.8 lineto
+182.4 251.8 lineto
+182.6 252.1 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 92.7 237.6 moveto
+93.8 238.5 lineto
+93.9 238.3 lineto
+92.8 237.5 lineto
+92.7 237.6 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 162.1 273.8 moveto
+162.3 272.4 lineto
+155.1 271.3 lineto
+153.9 271.9 lineto
+154.9 272.8 lineto
+162.1 273.8 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 135.8 287.1 moveto
+135.9 288.6 lineto
+143.8 288.2 lineto
+144.9 287.4 lineto
+143.7 286.7 lineto
+135.8 287.1 lineto
+fill
+0.00 0.00 0.00 setrgbcolor
+123.9 193.2 100.4 circle
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 179.1 284.7 moveto
+179.2 286.2 lineto
+187.1 285.8 lineto
+188.2 285.0 lineto
+187.0 284.3 lineto
+179.1 284.7 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 123.9 153.6 moveto
+120.7 156.7 lineto
+123.9 159.8 lineto
+127.0 156.7 lineto
+123.9 153.6 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 123.9 153.6 moveto
+120.7 156.7 lineto
+123.9 159.8 lineto
+127.0 156.7 lineto
+123.9 153.6 lineto
+fill
+showpage
+end
+%%Trailer

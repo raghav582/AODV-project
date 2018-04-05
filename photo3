@@ -1,0 +1,74 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Creator: nam
+%%DocumentFonts: Helvetica
+%%BoundingBox: 36 180 526 572
+%%EndComments
+gsave 36 36 translate
+/namdict 20 dict def
+namdict begin
+/ft {/Helvetica findfont exch scalefont setfont
+newpath 0 0 moveto (0) true charpath flattenpath
+pathbbox /fh exch def pop pop pop} def
+/center_show {/s exch def moveto s stringwidth
+pop 2 div neg fh 2 div neg rmoveto s show} def
+/north_show {/s exch def moveto s stringwidth
+pop 2 div neg fh neg rmoveto s show} def
+/south_show {/s exch def moveto s stringwidth
+pop 2 div neg 0 rmoveto s show} def
+/east_show {/s exch def moveto s stringwidth
+pop neg fh 2 div neg rmoveto s show} def
+/west_show {/s exch def moveto 
+0 fh 2 div neg rmoveto s show} def
+/rect {newpath /h exch def /w exch def moveto
+w 0 rlineto 0 h rlineto w neg 0 rlineto
+0 h neg rlineto closepath stroke} def
+/line {newpath moveto lineto stroke} def
+/circle {newpath 0 360 arc stroke} def
+end
+%%EndProlog
+namdict begin
+0.00 0.00 0.00 setrgbcolor
+123.9 193.2 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+123.9 193.2 (4) center_show
+0.00 0.00 0.00 setrgbcolor
+210.2 282.0 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+210.2 282.0 (3) center_show
+0.00 0.00 0.00 setrgbcolor
+73.6 261.8 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+73.6 261.8 (2) center_show
+0.00 0.00 0.00 setrgbcolor
+196.7 169.3 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+196.7 169.3 (1) center_show
+0.00 0.00 0.00 setrgbcolor
+64.5 290.1 12.3 circle
+14 ft
+0 0 0 setrgbcolor
+64.5 290.1 (0) center_show
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 158.0 285.9 moveto
+158.0 287.4 lineto
+166.0 286.9 lineto
+167.1 286.1 lineto
+165.9 285.5 lineto
+158.0 285.9 lineto
+fill
+%fill
+0.00 0.00 0.00 setrgbcolor
+newpath 206.6 260.3 moveto
+205.1 260.4 lineto
+205.2 260.7 lineto
+206.6 260.5 lineto
+206.6 260.3 lineto
+fill
+showpage
+end
+%%Trailer
